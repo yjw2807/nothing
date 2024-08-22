@@ -1,0 +1,9 @@
+REM The next four lines open Notepad in Windows and type "Hello World!"
+REM  from dbisu https://github.com/dbisu/pico-ducky
+REM edit by yjw2807 the delay is fxcking needed, and need many many more
+GUI r
+DELAY 1000
+STRING notepad
+ENTER
+DELAY 1000
+STRING Hello World!
